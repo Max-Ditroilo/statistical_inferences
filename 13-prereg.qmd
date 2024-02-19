@@ -182,7 +182,7 @@ http://www.imdb.com/filmosearch?role=nm0000093&explore=title_type&mode=detail&pa
 For Edward Norton:
 http://www.imdb.com/filmosearch?role=nm0001570&explore=title_type&mode=detail&page=1&title_type=movie&ref_=filmo_ref_job_typ&sort=release_date,desc&job_type=actor 
 
-**Q1**: Write down your hypothesis on a *conceptual level*. In some research areas you might be able to capture this hypothesis in in a formal quantitative model, but more often you will describe this hypothesis verbally. Try to be as precise as possible, even though all verbal descriptions of hypotheses will inherently be limited. It is also useful to discuss whether the data has already been collected, or not, and explain whether your hypothesis is influenced by knowledge about the data (in a typical preregistration, data will not have been collected). 
+**Q1**: Write down your hypothesis on a *conceptual level*. In some research areas you might be able to capture this hypothesis in a formal quantitative model, but more often you will describe this hypothesis verbally. Try to be as precise as possible, even though all verbal descriptions of hypotheses will inherently be limited. It is also useful to discuss whether the data has already been collected, or not, and explain whether your hypothesis is influenced by knowledge about the data (in a typical preregistration, data will not have been collected). 
 
 **Q2**: Write down your hypothesis on an *operationalized level*. All variables in the study (i.e., independent and/or dependent variables) should be clearly specified.
 
